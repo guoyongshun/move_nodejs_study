@@ -1,0 +1,26 @@
+{
+  "name": "imooc",
+  "authors": [
+    "郭永顺 <a414644502@qq.com>"
+  ],
+  "description": "0.0.1",
+  "main": "guozi's nodejs",
+  "moduleType": [],
+  "keywords": [
+    "imooc"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
